@@ -2,7 +2,7 @@
   
 ![Oyewiki - youtube for reading and writing](https://github.com/chetnakhanna16/oyewiki_ds_analysis/blob/master/img/how-oyewiki-works.png)
   
-## What is Oyeiwki?
+## What is Oyewiki?
 #### Oyewiki - Youtube for reading and writing
 
 It was a product that we worked on from June 2016 to Dec 2018. 
