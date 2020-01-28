@@ -6,7 +6,7 @@
 #### Oyewiki - Youtube for reading and writing
 
 It was a product that we worked on from June 2016 to Dec 2018. 
-We built a product for authors so that they can earn by writing articles. Just like video creator earn by uploading videos on you tube.
+We built a product for authors so that they can earn by writing articles. Just like video creator earn by uploading videos on youtube.
 
 [[You can read more about Oyewiki on Quora](https://www.quora.com/search?q=oyewiki)]
 
