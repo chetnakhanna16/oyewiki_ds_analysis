@@ -1,5 +1,7 @@
 # Oyewiki Data Science Analysis
   
+![Oyewiki - youtube for reading and writing](https://github.com/chetnakhanna16/oyewiki_ds_analysis/blob/master/img/how-oyewiki-works.png)
+  
 ## What is Oyeiwki?
 #### Oyewiki - Youtube for reading and writing
 
@@ -8,7 +10,7 @@ We built a product for authors so that they can earn by writing articles. Just l
 
 [[You can read more about Oyewiki on Quora](https://www.quora.com/search?q=oyewiki)]
 
-![Oyewiki - youtube for reading and writing](https://qph.fs.quoracdn.net/main-qimg-753cc4a2173d162881f15abe2e862ca4)
+![Oyewiki - youtube for reading and writing](https://github.com/chetnakhanna16/oyewiki_ds_analysis/blob/master/img/oyewiki_home_page.png)
 
 ## Project 1: Analyzing the popular email providers 
 We have a list of around 7000 email ids provided by authors while signing up on the platform and we are analyzing this data to see the popular email provider. 
