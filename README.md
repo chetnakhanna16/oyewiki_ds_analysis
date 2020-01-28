@@ -23,7 +23,7 @@ It can be observed from the bar chart that 'gmail.com' is the most popular email
 
 It can be interpreted from the bar chart that 'yahoo.com' is the second most popular email provider after 'gmail.com' and 'rediffmail.com' is the third most popular email provider. It is interesting to note that 'outlook.com', 'hotmail.com' and 'yahoo.co.in' are almost similar in popularity.
 
-## Project 2: Analyzing the average length of email ids [Jupyter Notebook Link](https://github.com/chetnakhanna16/oyewiki_ds_analysis/blob/master/email_list_analysis.ipynb)
+## Project 2: Analyzing the average length of email ids 
 
 Now we are analyzing the average length of the emails that people create for themselves.
 
