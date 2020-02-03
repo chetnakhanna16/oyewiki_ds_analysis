@@ -34,3 +34,18 @@ Now we are analyzing the average length of the emails that people create for the
 ![Boxplot for Email Length](https://github.com/chetnakhanna16/oyewiki_ds_analysis/blob/master/img/boxplot_email.png)
 
 It can be interpreted from the boxplot that the average length of an email ID ranges between 21 and 25 characters, with maximum email IDs of length 23. There are very few people who create email ID of length more than 31 characters.
+
+## Analysis 3: Analyzing the articles data submitted by authors.
+
+Here we are analyzing different aspects of columns present in Articles data. Mostly we will play with userid, title, description, body/content of articles and total views recieved on those articles.
+
+![Distribution of average length](https://github.com/chetnakhanna16/oyewiki_ds_analysis/blob/master/img/hist_length_title.png)
+
+It can be interpreted from the histogram that the length of title ranges between 2 and 120. Most of the articles have length less than 60 characters. Let us plot a boxplot to know more about the distribution of the title length.
+
+![Boxplot of title length](https://github.com/chetnakhanna16/oyewiki_ds_analysis/blob/master/img/boxplot_length_title.png)
+
+It can be interpreted from the boxplot that the minimum length of title is 3 characters and the maximum length of title is 125 characters. Also, the median length of title is 35 characters, which clearly indicates that maximum articles have length close to 35 characters. The interquantile range of the length of articles is 24 and 51, which indicates that 50% of the articles have length of title between 24 and 51. There are a few outliers as well which lies above the title length of 75 characters.
+
+
+
