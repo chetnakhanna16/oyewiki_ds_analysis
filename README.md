@@ -35,7 +35,7 @@ Now we are analyzing the average length of the emails that people create for the
 
 It can be interpreted from the boxplot that the average length of an email ID ranges between 21 and 25 characters, with maximum email IDs of length 23. There are very few people who create email ID of length more than 31 characters.
 
-## Analysis 3: Analyzing the articles data submitted by authors.
+## Analysis 3: Analyzing the articles data submitted by authors
 
 Here we are analyzing data present in different columns of Articles table. Mostly we will play with userid, title, description, body/content of articles and total views recieved on those articles.
 
@@ -55,7 +55,7 @@ Then we analyzed different articles written by top 10 user in top 10 categories.
 
 It can be interpreted from the stacked bar chart that not all categories are popular among all the authors. Authors have their own preference while choosing a category for writing any article. For instance, User 1 prefers writing articles in poems and thoughts category more than any other category. User 2 has a strong inclination towards tech articles. Though this user has written a lot of articles in thoughts catgeory too but tech is no doubt an outlier. Also, this user has written the maximum number of articles in oyewiki. User 3 only writes fiction articles whereas User 4 likes to write articles in thoughts, health, entertainment and news categories. User 5 again has a preference of writing articles in the category poem. User 6 abd 8 has no such preference and write articles in almost every category. User 7 writes more in finance followed by entertainment. User 9 prefers writing in thoughts and education whereas User 10 prefers thoughts category more than any other category.
 
-## Analysis 4: Analyzing the word frequency in articles written by authors.
+## Analysis 4: Analyzing the word frequency in articles written by authors
 
 Here we will be analuzing the frequency of words in articles written by authors. Before that we will do tokenization, lemmatization of words. Also remove all stop words to remove noise in data.
 
