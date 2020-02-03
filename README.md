@@ -39,6 +39,8 @@ It can be interpreted from the boxplot that the average length of an email ID ra
 
 Here we are analyzing data present in different columns of Articles table. Mostly we will play with userid, title, description, body/content of articles and total views recieved on those articles.
 
+[[Jupyter Notebook Link](https://github.com/chetnakhanna16/oyewiki_ds_analysis/blob/master/Oyewiki_Articles.ipynb)]
+
 ![Distribution of average length](https://github.com/chetnakhanna16/oyewiki_ds_analysis/blob/master/img/hist_length_title.png)
 
 It can be interpreted from the histogram that the length of title ranges between 2 and 120. Most of the articles have length less than 60 characters. Let us plot a boxplot to know more about the distribution of the title length.
@@ -52,4 +54,14 @@ Then we analyzed different articles written by top 10 user in top 10 categories.
 ![Stacked user category top 10 authors to top 10 category mapping](https://github.com/chetnakhanna16/oyewiki_ds_analysis/blob/master/img/stack_user_category.png)
 
 It can be interpreted from the stacked bar chart that not all categories are popular among all the authors. Authors have their own preference while choosing a category for writing any article. For instance, User 1 prefers writing articles in poems and thoughts category more than any other category. User 2 has a strong inclination towards tech articles. Though this user has written a lot of articles in thoughts catgeory too but tech is no doubt an outlier. Also, this user has written the maximum number of articles in oyewiki. User 3 only writes fiction articles whereas User 4 likes to write articles in thoughts, health, entertainment and news categories. User 5 again has a preference of writing articles in the category poem. User 6 abd 8 has no such preference and write articles in almost every category. User 7 writes more in finance followed by entertainment. User 9 prefers writing in thoughts and education whereas User 10 prefers thoughts category more than any other category.
+
+## Analysis 4: Analyzing the word frequency in articles written by authors.
+
+Here we will be analuzing the frequency of words in articles written by authors. Before that we will do tokenization, lemmatization of words. Also remove all stop words to remove noise in data.
+
+[[Jupyter Notebook Link](https://github.com/chetnakhanna16/oyewiki_ds_analysis/blob/master/Oyewiki_WordFreq.ipynb)]
+
+![Word frequency of oyewiki articles](https://github.com/chetnakhanna16/oyewiki_ds_analysis/blob/master/img/freqDist_Oyewiki.png)
+
+The frequency distribution graph has top 35 popular words in Oyewiki articles. It can be observed from the frequency distribution graph that "one" has the maximum number of occurences in Oyewiki articles. It has almost occured 4750 times. The second most popular word is "time" with number of occurences close to 4400.
 
