@@ -47,5 +47,9 @@ It can be interpreted from the histogram that the length of title ranges between
 
 It can be interpreted from the boxplot that the minimum length of title is 3 characters and the maximum length of title is 125 characters. Also, the median length of title is 35 characters, which clearly indicates that maximum articles have length close to 35 characters. The interquantile range of the length of articles is 24 and 51, which indicates that 50% of the articles have length of title between 24 and 51. There are a few outliers as well which lies above the title length of 75 characters.
 
+Then we analyzed different articles written by top 10 user in top 10 categories. This is a stacked bar graph.
 
+![Stacked user category top 10 authors to top 10 category mapping](https://github.com/chetnakhanna16/oyewiki_ds_analysis/blob/master/img/stack_user_category.png)
+
+It can be interpreted from the stacked bar chart that not all categories are popular among all the authors. Authors have their own preference while choosing a category for writing any article. For instance, User 1 prefers writing articles in poems and thoughts category more than any other category. User 2 has a strong inclination towards tech articles. Though this user has written a lot of articles in thoughts catgeory too but tech is no doubt an outlier. Also, this user has written the maximum number of articles in oyewiki. User 3 only writes fiction articles whereas User 4 likes to write articles in thoughts, health, entertainment and news categories. User 5 again has a preference of writing articles in the category poem. User 6 abd 8 has no such preference and write articles in almost every category. User 7 writes more in finance followed by entertainment. User 9 prefers writing in thoughts and education whereas User 10 prefers thoughts category more than any other category.
 
