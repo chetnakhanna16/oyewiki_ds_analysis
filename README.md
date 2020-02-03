@@ -37,7 +37,7 @@ It can be interpreted from the boxplot that the average length of an email ID ra
 
 ## Analysis 3: Analyzing the articles data submitted by authors.
 
-Here we are analyzing different aspects of columns present in Articles data. Mostly we will play with userid, title, description, body/content of articles and total views recieved on those articles.
+Here we are analyzing data present in different columns of Articles table. Mostly we will play with userid, title, description, body/content of articles and total views recieved on those articles.
 
 ![Distribution of average length](https://github.com/chetnakhanna16/oyewiki_ds_analysis/blob/master/img/hist_length_title.png)
 
